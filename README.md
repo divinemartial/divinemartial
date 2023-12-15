@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking/ progamming  
 - 🌱 I’m currently learning HTML/JAVA SCRIPT/PYTHON
 - 💞️ I’m looking to collaborate on You guys
-- 📫 How to reach me contack me trough her... other contacts will be set up in a later date
+- 📫 How to reach me contack me trough here... other contacts will be set up in a later date
   
 
 <!---
